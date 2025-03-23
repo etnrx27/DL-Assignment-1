@@ -15,6 +15,6 @@ In this project, only 10 different types of food were used and they are:
 9) Lobster Roll Sandwich
 10) Omelette
     
-# Resources
-Food_Image_Classification_Model_Report - Documentation of the performance of model and model progression
+# Materials
+Food_Image_Classification_Report.docx - Documentation of the performance of model and model progression
 Food_Image_Classification_Model.ipynb - Code used to establish the model
