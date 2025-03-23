@@ -16,5 +16,5 @@ In this project, only 10 different types of food were used and they are:
 10) Omelette
     
 # Materials
-Food_Image_Classification_Report.docx - Documentation of the performance of model and model progression
-Food_Image_Classification_Model.ipynb - Code used to establish the model
+1) Food_Image_Classification_Report.docx - Documentation of the performance of model and model progression
+2) Food_Image_Classification_Model.ipynb - Code used to establish the model
